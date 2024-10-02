@@ -1,2 +1,2 @@
-# high-freq-regression
-Replication package for Chang, Lu and Park 2024 working paper "[Understanding regression with observations collected at high frequency over long span]([url](https://drive.google.com/file/d/1K8iTTQenqiltgAHEVMemtM85YCKZM_tq/view?usp=drive_link))", updated on September 28, 2024.
+# High-Frequency Regression
+Replication package for Chang, Lu and Park 2024 working paper <a href="https://drive.google.com/file/d/1K8iTTQenqiltgAHEVMemtM85YCKZM_tq/view?usp=drive_link">"Understanding Regression with Observations Collected at High Frequency over Long Span"</a>, updated on October 1, 2024.
